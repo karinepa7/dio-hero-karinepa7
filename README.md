@@ -1,3 +1,5 @@
+Instruções para entrega
+
 # desafio-logica-dio-classificador-heroi
 Entrega do desafio simples do curso da Dio sobre lógica de programação
 
